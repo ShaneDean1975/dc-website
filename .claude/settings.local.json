@@ -1,7 +1,19 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(for f in auto-insurance-claims.html boat-accident-injuries.html car-accident-faq.html car-accident-injuries.html chad-camper.html contact.html)",
+      "Bash(do)",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(for f in crestview_car_accident_lawyer_page.html defective-product-injuries.html destin_car_accident_lawyer_page.html dog-bite-injuries.html fort_walton_beach_car_accident_lawyer_page.html index.html)",
+      "Bash(for f in mobile_al_car_accident_lawyer_page.html mobile_al_car_accident_lawyer_page-2.html motorcycle-accident-injuries.html other-personal-injuries.html pensacola_car_accident_lawyer_page.html premises-liability.html)",
+      "Bash(for f in shane-dean.html truck-accident-injuries.html wrongful-death.html)",
+      "Bash(for img in car_crash_with_ambulance.jpg insurance_claims.jpg wrongful_death.jpg chad-camper-photo.jpg)",
+      "Bash([ -f \"/Users/shanedean/.claude-worktrees/dc-website/hungry-murdock/$img\" ])"
     ]
   }
 }
